@@ -148,45 +148,45 @@
       }
     ],
    
-    "MAR 2014": [
+    "JUL 2015": [
       {
         "type": "Project",
-        "title": "MusicCloud: SoundCloud based mobile application",
+        "title": "IoT and Smart Devices",
         "desc": [
-          "Worked in a team of 3 to demonstrate the potential use of audio recorder in mobile device.",
-          "Developed an android application with SoundCloud API and YouTube API.",
-          "Devised methods to cut off clearing unwanted noise and multithreading",
-          "Published paper: http://goo.gl/gyQ36A"
+          "Built a moblie app monitoring system using Raspberry Pi.",
+          "Developed a model to Monitor Fire Safety in an Industrial Environment.",
+          "Devised methods to use Raspberry Pi for Smoke Detection and Gas Safety using Shutoff Valves"
+          
         ]
       },
       {
         "type": "Project",
-        "title": "Spammer Detection  by Extracting Message Parameters from Spam Emails",
+        "title": "Development and Maintainence of B.PAC website",
         "desc": [
-          "Worked in a team of 4 to detect and occlude the malicious actions of the spammers.",
-          "Developed a WPF application on a sample data set of 2GB.",
-          "Implemented two clustering algorithms to study the performance efficiency.",
-          "Published paper: http://goo.gl/2EsrB1"
+          "Worked in a team of 4 to improve website UI.",
+          "Developed a model for better utilization of cloud storage to render web pages."
+         
         ]
       }
     ],
     "MAR 2013": [
       {
         "type": "Project",
-        "title": "Online Secondhand Books Retail store",
+        "title": "Installation of Network at Unnati",
         "desc": [
-          "Developed a web portal for an Institute to sell used Textbooks online.",
-          "Technologies used: PHP, JavaScript, CSS and jQuery"
+          "Deployment of Network equipment at Unnati",
+          "Maintenance of Computer Security for connected systems"
+          
         ],
         "link": ""
       },
       {
         "type": "Project",
-        "title": "Sports event Organizer",
+        "title": "CEMILAC(Centre for Military Airworthiness and Certification) Intern",
         "desc": [
-          "Developed an event manger for Cricket Knockout Tournament",
-          "Used SWING based UI with SQL Server.",
-          "Tools: Java, SQL Server"
+          "Understanding of certifications for Military and Civilian Aircrafts",
+          "Working knowledge of Electronics aboard Aeroplanes",
+         
         ],
         "link": ""
       }
