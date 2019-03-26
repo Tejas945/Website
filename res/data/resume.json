@@ -1,0 +1,206 @@
+{
+  "personal_info": {
+    "first_name": "Gaurang",
+    "last_name": "Mhatre",
+    "position": "Softwear Engineering",
+    "institute": "San Jose State University",
+    "email": [
+      "gaurangmhatre@gmail.com",
+      "gaurang.mhatre@sjsu.edu"
+    ],
+    "tel": "+1-408-831-8859",
+    "city": "San Jose",
+    "state": "CA",
+    "pin": "95112"
+  },
+  "links": {
+    "LinkedIn": "https://in.linkedin.com/in/gaurangmhatre",
+    "Github":"https://github.com/gaurangmhatre"
+  },
+  "skills": {
+    "programming_languages": [
+      "Java",
+      "Python",
+      "C"
+    ],
+    "web_technologies": [
+      "HTML5",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "AJAX",
+      "XML",
+      "Bootstrap",
+      "AngularJS"
+    ],
+    "mobile_development": [
+      "Android"
+    ],
+    "databases": [
+      "MySQL",
+      "Oracle"
+    ],
+    "tools": [
+      "Git",
+      "Android Studio",
+      "NetBeans"
+    ],
+    "operating_systems": [
+      "Windows",
+      "Ubuntu",
+      "Raspbian"
+    ]
+  },
+  "things_i_know": [
+    "Express",
+    "RabbitMQ",
+    "Kafka",
+    "Redis",
+    "Hadoop",
+    "Spark",
+    "MapR",
+    "MongoDB",
+    "Git",
+    "Microsoft Online TFS",
+    "MySQL",
+    "PhotoShop",
+    "Oracle 10g",   
+    "JUnit",
+    "NUnit",
+    "Phonegap",
+    "Linux",
+    "Automation Testing",
+    "Android Develpment"
+      
+  ],
+  "timeline": {
+     "AUG 2016": [
+      {
+        "type": "Life",
+        "title": "Started Masters at San Jose State University",
+        "desc": [
+          "Specialization in Cloud computing and Data Mining.",
+          "Focused on Distributed Computing."
+        ],
+        "link": ""
+      }
+    ], 
+    "FEB 2016": [
+      {
+        "type": "Project",
+        "title": "Portfolio Rebalancer",
+        "desc": [
+          "Developed an AngularJS based visualization dashboard for Rebalancer.",
+          "Developed a REST framework using ASP.net and AngularJS to communicate with the IIS to issue a query and fetch the results.",
+          "Developed a server endpoint to transform the query results into JSONs that AngularJS needed to render visualizations.",
+          "Developed SQL logic for Rebalancing the portfolio's.",
+          "Gave initial deployment support for a couple of months."
+        ],
+        "link": ""
+      }
+    ],
+    "SEP 2015": [
+      {
+        "type": "Project",
+        "title": "Spruce Investment Advisors",
+        "desc": [
+          "Spruce was the relativity fresh client engagement for Gravitas.",
+          " The First employee to plan AngularJS and ASP.Net development environment in client's domain.",
+          "Developed Operations Portal for the Client's Investor team.",
+          "Developed a Dashboard for running python based Reports in client's environment."
+        ],
+        "link": ""
+      }
+    ],
+    "JAN 2015": [
+      {
+        "type": "Project",
+        "title": "The Gravitas platform: Reconciliation Engine",
+        "desc": [
+          "This Engine was built for Position and Security reconciliation with flexible SQL based feed­config settings.",
+          "​Lead a team of 3 to setup 50 feeds in less than 2 months.",
+          "Contributed to streamline the configuration process."
+        ],
+        "link": ""
+      }
+    ],
+    "SEP 2014": [
+      {
+        "type": "Life",
+        "title": "Firtree Partners",
+        "desc": [
+          "Firtree has 82 Billion USD under management.",
+          "Developed various reports and Services mainly in WCF, SSIS and SSRS.",
+          "Implemented a WCF service to import >100,000 daily transactions from 9 different prime brokers."
+        ],
+        "link": ""
+      }
+    ],
+    "JUL 2014": [
+      {
+        "type": "Work",
+        "title": "Gravitas",
+        "desc": [
+          "Started Working as Software Engineer.",
+          "​Primary role is to be a part of software Co-Sourcing team and understand the client needs and provide logically & programmatically accurate solution in minimum time.",
+          "Duration: 1 year 10 months (July 2014 - April 2016)"
+        ],
+        "link": ""
+      }
+    ],
+    "AUG 2014": [
+      {
+        "type": "Life",
+        "title": "Graduated from University of Mumbai",
+        "desc": [
+          "Earned my Bachelor of Engineering degree in Computer Engineering.",
+          "Achieved Distinction"
+        ],
+        "link": ""
+      }
+    ],
+    "MAR 2014": [
+      {
+        "type": "Project",
+        "title": "MusicCloud: SoundCloud based mobile application",
+        "desc": [
+          "Worked in a team of 3 to demonstrate the potential use of audio recorder in mobile device.",
+          "Developed an android application with SoundCloud API and YouTube API.",
+          "Devised methods to cut off clearing unwanted noise and multithreading",
+          "Published paper: http://goo.gl/gyQ36A"
+        ]
+      },
+      {
+        "type": "Project",
+        "title": "Spammer Detection  by Extracting Message Parameters from Spam Emails",
+        "desc": [
+          "Worked in a team of 4 to detect and occlude the malicious actions of the spammers.",
+          "Developed a WPF application on a sample data set of 2GB.",
+          "Implemented two clustering algorithms to study the performance efficiency.",
+          "Published paper: http://goo.gl/2EsrB1"
+        ]
+      }
+    ],
+    "MAR 2013": [
+      {
+        "type": "Project",
+        "title": "Online Secondhand Books Retail store",
+        "desc": [
+          "Developed a web portal for an Institute to sell used Textbooks online.",
+          "Technologies used: PHP, JavaScript, CSS and jQuery"
+        ],
+        "link": ""
+      },
+      {
+        "type": "Project",
+        "title": "Sports event Organizer",
+        "desc": [
+          "Developed an event manger for Cricket Knockout Tournament",
+          "Used SWING based UI with SQL Server.",
+          "Tools: Java, SQL Server"
+        ],
+        "link": ""
+      }
+    ]
+  }
+}

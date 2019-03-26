@@ -1,0 +1,285 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #ecf0f1;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+a:focus {
+    outline: none;
+}
+
+/*******************************************************************
+NAVBAR OVERRIDES
+*******************************************************************/
+
+.navbar-default {
+    /*background-color: #e74c3c;*/
+    background-color: #050505;
+    border: none;
+    height: 70px;
+    padding-top: 10px;
+}
+
+/* title */
+
+.navbar-default .navbar-brand {
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #ecf0f1;
+}
+
+/* link */
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    font-weight: bold;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #ecf0f1;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #050505;
+    background-color: white;
+    box-shadow: none;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    background: black;
+}
+
+/* mobile version */
+.navbar-toggle{
+    border-radius: 0;
+}
+.navbar-collapse {
+    background: #050505;
+    border: none;
+    box-shadow: none;
+}
+.navbar-default .navbar-toggle {
+    border-color: white;
+}
+.navbar-default .navbar-toggle:hover {
+    background-color: #211d1d;
+}
+.navbar-default .navbar-toggle:focus {
+    background-color: transparent;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: white;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: white;
+    }
+}
+
+/*******************************************************************
+MAIN PAGE STYLINGS
+*******************************************************************/
+
+.wrapper {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.section {
+    position: relative;
+    width: 100%;
+    min-height: 100%;
+}
+.section-fixed {
+    position: fixed;
+    height: 100%;
+    top: 0;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+#about {
+    background: #050505;
+}
+#skills {
+    margin-top: 100vh;
+    padding-top: 70px;
+    background: white;
+    box-shadow: 0 5px 5px 5px black;
+}
+#timeline {
+    padding-top: 70px;
+    background: white;
+    box-shadow: 0 5px 5px -5px black;
+    padding-bottom: 20px;
+}
+#contact{
+    margin-bottom: 325px;
+}
+.vertically-center {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.profile-image {
+    max-width: 150px;
+    max-height: 150px;
+}
+.inverse-color {
+    color: white;
+}
+.super-heading {
+    font-size: 7em;
+}
+.bottom-fixed {
+    height: 100px;
+    width: 100vw;
+    position: absolute;
+    bottom: 0;
+}
+.up-button {
+    display: inline-block;
+    width: 100px;
+    height: 200px;
+    background: white;
+    border-radius: 100px;
+    margin-top: 150px;
+    padding-top: 25px;
+    font-size: 3em;
+    box-shadow: 0 3px 5px #333;
+}
+.anchor-up-button {
+    color: inherit;
+    text-decoration: none;
+}
+.anchor-up-button:hover {
+    color: #050505;
+    text-decoration: none;
+}
+.anchor-up-button:focus {
+    color: #050505;
+    text-decoration: none;
+    outline: none;
+}
+.flat-bar {
+    border-radius: 0;
+    border: none;
+    box-shadow: none;
+    height: 7px;
+}
+.skillbox {
+    display: inline-block;
+    background: #ddd;
+    border-radius: 2px;
+    box-shadow: 0 1px 3px #eee;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 5px;
+}
+.skillbox:hover {
+    box-shadow: 0 3px 5px #aaa;
+    cursor: default;
+}
+.top-button{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: inline-block;
+    background: #050505;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px #555;
+}
+.top-button:hover{
+    box-shadow: 0 4px 5px #555;
+    cursor: pointer;
+}
+
+.contact-card{
+    bottom: 0;
+    position: absolute;
+    height: 350px;
+    width: 100vw;
+    padding-top: 50px;
+}
+
+.link-block{
+    display: inline-block;
+    border: 2px solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 3px;
+}
+.link-block:hover{
+    background: white;
+    color: #050505;
+    cursor: pointer;
+}
+.no-decoration{
+    text-decoration: none;
+    color: white;
+}
+.no-decoration:focus{
+    text-decoration: none;
+    color: white;
+    outline: none;
+}
+.link-block:focus{
+    background: white;
+    color: #050505;
+}
+
+
+.progress-bar-danger {
+    background-color: #2f2b2b;
+}
+
+
+
+/*Polar Clock*/
+.arc-text {
+  font: 16px sans-serif;
+   color: #ffffff;
+}
+
+.arc-center {
+  fill: none;
+}
+
+.arc-body{
+    fill: #adadad;
+}
+
+
+#credit {
+  position: absolute;
+  font: 10px sans-serif;
+  right: 10px;
+  bottom: 10px;
+  color: #ddd;
+}
+
+#credit a {
+  color: inherit;
+}
+
+#chart {
+  color: #ffffff;
+  hight: 500px;
+  width: 500px;
+}
+
+#AgePolarClock {
+    margin-top: 100vh;
+    padding-top: 70px;
+    background: white;
+    box-shadow: 0 5px 5px 5px black;
+    
+}
+
