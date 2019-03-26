@@ -1,2 +1,2 @@
-# gaurangmhatre.github.io
+# tejasmadappa.github.io
 Interactive Resume 
