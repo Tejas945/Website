@@ -13,9 +13,9 @@ NAVBAR OVERRIDES
 *******************************************************************/
 
 .navbar-default {
-    /*background-color: #e74c3c;*/
+    background-color: #e74c3c;
    /* background-color: #050505;*/
-    background-color: #0000FF;
+   /*background-color: #0000FF;*/
     border: none;
     height: 70px;
     padding-top: 10px;
