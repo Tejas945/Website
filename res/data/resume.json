@@ -70,13 +70,13 @@
       
   ],
   "timeline": {
-     "AUG 2016": [
+     "AUG 2018": [
       {
         "type": "Life",
         "title": "Started Masters at San Jose State University",
         "desc": [
           "Specialization in Networking and Cloud computing .",
-          "Focused on Distributed Computing."
+          "Focused on Security and Distributed Computing."
         ],
         "link": ""
       }
@@ -84,77 +84,69 @@
     "FEB 2016": [
       {
         "type": "Project",
-        "title": "Portfolio Rebalancer",
+        "title": "5BARz Blockchain",
         "desc": [
-          "Developed an AngularJS based visualization dashboard for Rebalancer.",
-          "Developed a REST framework using ASP.net and AngularJS to communicate with the IIS to issue a query and fetch the results.",
-          "Developed a server endpoint to transform the query results into JSONs that AngularJS needed to render visualizations.",
-          "Developed SQL logic for Rebalancing the portfolio's.",
+          "Developed an Blockchain Application for Network Equipment.",
+          "Developed a File system for Distributed storage using IPFS(Inter Planetary File System).",
+          "Developed an OS for a remote sensing robot using Motion Eye.",
+          "Deployment of Ethereum Smart Contract for Data Transactions.",
           "Gave initial deployment support for a couple of months."
         ],
         "link": ""
       }
     ],
-    "SEP 2015": [
+    
+    "FEB 2017": [
       {
         "type": "Project",
-        "title": "Spruce Investment Advisors",
+        "title": "Universal Cookie and Browser Extension",
         "desc": [
-          "Spruce was the relativity fresh client engagement for Gravitas.",
-          " The First employee to plan AngularJS and ASP.Net development environment in client's domain.",
-          "Developed Operations Portal for the Client's Investor team.",
-          "Developed a Dashboard for running python based Reports in client's environment."
+          "Developed Javascript Universal cookie and client as PaaS",
+          "Implemented API to call cookie drop from cloud using redirects.",
+          "Documentation and analysis of Resource logs."
         ],
         "link": ""
       }
     ],
-    "JAN 2015": [
-      {
-        "type": "Project",
-        "title": "The Gravitas platform: Reconciliation Engine",
-        "desc": [
-          "This Engine was built for Position and Security reconciliation with flexible SQL based feed­config settings.",
-          "​Lead a team of 3 to setup 50 feeds in less than 2 months.",
-          "Contributed to streamline the configuration process."
-        ],
-        "link": ""
-      }
-    ],
-    "SEP 2014": [
+    "JUN 2017": [
       {
         "type": "Life",
-        "title": "Firtree Partners",
+        "title": "Full Time 5BARz India",
         "desc": [
-          "Firtree has 82 Billion USD under management.",
-          "Developed various reports and Services mainly in WCF, SSIS and SSRS.",
-          "Implemented a WCF service to import >100,000 daily transactions from 9 different prime brokers."
+          "Started Working as Software Engineer.",
+          "Developed various modules for IoT Hub project",
+          "Deployed IoT Hub with 3000+ devices connected across the world. "
         ],
         "link": ""
       }
     ],
-    "JUL 2014": [
+    
+      
+    "MAY 2017": [
+      {
+        "type": "Life",
+        "title": "Graduated from University of Amrita Vishwa Vidyapeetham",
+        "desc": [
+          "Earned my Bachelor of Engineering degree in Electronics and Communication Engineering.",
+          "Achieved Distinction"
+        ],
+        "link": ""
+      }
+    ],
+      
+    "DEC 2016": [
       {
         "type": "Work",
-        "title": "Gravitas",
+        "title": "Intern 5BARz India",
         "desc": [
-          "Started Working as Software Engineer.",
+          "Worked as an Intern",
           "​Primary role is to be a part of software Co-Sourcing team and understand the client needs and provide logically & programmatically accurate solution in minimum time.",
           "Duration: 1 year 10 months (July 2014 - April 2016)"
         ],
         "link": ""
       }
     ],
-    "AUG 2014": [
-      {
-        "type": "Life",
-        "title": "Graduated from University of Mumbai",
-        "desc": [
-          "Earned my Bachelor of Engineering degree in Computer Engineering.",
-          "Achieved Distinction"
-        ],
-        "link": ""
-      }
-    ],
+   
     "MAR 2014": [
       {
         "type": "Project",
