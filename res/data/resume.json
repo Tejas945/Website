@@ -26,28 +26,25 @@
       "HTML5",
       "CSS",
       "JavaScript",
-      "PHP",
-      "AJAX",
-      "XML",
-      "Bootstrap",
-      "AngularJS"
+      "React",
+      "Node.js"
     ],
     "mobile_development": [
       "Android"
     ],
     "databases": [
       "MySQL",
-      "Oracle"
+      "MongoDB"
     ],
     "tools": [
       "Git",
-      "Android Studio",
-      "NetBeans"
+      "Buildroot",
+      "Wireshark"
     ],
     "operating_systems": [
-      "Windows",
-      "Ubuntu",
-      "Raspbian"
+      "Linux",
+     "Windows",
+      "IOS"
     ]
   },
   "things_i_know": [
@@ -78,7 +75,7 @@
         "type": "Life",
         "title": "Started Masters at San Jose State University",
         "desc": [
-          "Specialization in Cloud computing and Data Mining.",
+          "Specialization in Networking and Cloud computing .",
           "Focused on Distributed Computing."
         ],
         "link": ""
