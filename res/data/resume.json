@@ -1,21 +1,20 @@
 {
   "personal_info": {
-    "first_name": "Gaurang",
-    "last_name": "Mhatre",
-    "position": "Softwear Engineering",
+    "first_name": "Tejas",
+    "last_name": "Madappa",
+    "position": "Computer Engineering",
     "institute": "San Jose State University",
     "email": [
-      "gaurangmhatre@gmail.com",
-      "gaurang.mhatre@sjsu.edu"
+      "tejas.madappa@sjsu.edu"
     ],
-    "tel": "+1-408-831-8859",
+   
     "city": "San Jose",
     "state": "CA",
     "pin": "95112"
   },
   "links": {
-    "LinkedIn": "https://in.linkedin.com/in/gaurangmhatre",
-    "Github":"https://github.com/gaurangmhatre"
+    "LinkedIn": "https://in.linkedin.com/in/tejas-madappa",
+    "Github":"https://github.com/tejas945"
   },
   "skills": {
     "programming_languages": [
