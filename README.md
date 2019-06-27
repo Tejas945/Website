@@ -1,2 +1,2 @@
 # tejasmadappa.github.io
-Interactive Resume 
+My resume and the projects that I have worked on.
