@@ -61,8 +61,8 @@
     right: -15px;
     display: inline-block;
     border-top: 15px solid transparent;
-    border-left: 15px solid #050505;
-    border-right: 0 solid #050505;
+    border-left: 15px solid #a752cc;
+    border-right: 0 solid #a752cc;
     border-bottom: 15px solid transparent;
     content: " ";
 }
@@ -106,7 +106,7 @@
     top: 26px;
     left: 50%;
     text-align: center;
-    background: #050505;
+    background: #a752cc;
     color: #fff;
     width: 30px;
     height: 30px;
@@ -124,7 +124,7 @@
 
 .tl-heading h4 {
     margin: 0;
-    color: #050505;
+    color: #a752cc;
 }
 .tl-body p, .tl-body ul {
     margin-bottom: 0;
