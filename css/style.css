@@ -14,7 +14,7 @@ NAVBAR OVERRIDES
 
 .navbar-default {
     /*background-color: #e74c3c;*/
-    background-color: #a752cc;
+    background-color: #0e76a8;
    /*background-color: #0000FF;*/
     border: none;
     height: 70px;
@@ -42,7 +42,7 @@ NAVBAR OVERRIDES
     color: #ecf0f1;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-    color: #a752cc;
+    color: #0e76a8;
     background-color: white;
     box-shadow: none;
 }
@@ -55,7 +55,7 @@ NAVBAR OVERRIDES
     border-radius: 0;
 }
 .navbar-collapse {
-    background: #a752cc;
+    background: #0e76a8;
     border: none;
     box-shadow: none;
 }
@@ -157,11 +157,11 @@ MAIN PAGE STYLINGS
     text-decoration: none;
 }
 .anchor-up-button:hover {
-    color: #a752cc;
+    color: #0e76a8;
     text-decoration: none;
 }
 .anchor-up-button:focus {
-    color: #a752cc;
+    color: #0e76a8;
     text-decoration: none;
     outline: none;
 }
@@ -219,7 +219,7 @@ MAIN PAGE STYLINGS
 }
 .link-block:hover{
     background: white;
-    color: #a752cc;
+    color: #0e76a8;
     cursor: pointer;
 }
 .no-decoration{
@@ -233,7 +233,7 @@ MAIN PAGE STYLINGS
 }
 .link-block:focus{
     background: white;
-    color: #a752cc;
+    color: #0e76a8;
 }
 
 
