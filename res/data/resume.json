@@ -5,7 +5,7 @@
     "position": "Computer Engineering",
     "institute": "San Jose State University",
     "email": [
-      "tejas.madappa@sjsu.edu"
+      "tejas3madappa@gmail.com"
     ],
    
     "city": "San Jose",
@@ -86,11 +86,10 @@
         "type": "Project",
         "title": "5BARz Blockchain",
         "desc": [
-          "Developed an Blockchain Application for Network Equipment.",
-          "Developed a File system for Distributed storage using IPFS(Inter Planetary File System).",
-          "Developed an OS for a remote sensing robot using Motion Eye.",
-          "Deployment of Ethereum Smart Contract for Data Transactions.",
-          "Gave initial deployment support for a couple of months."
+          "Development of Remote Management System and Deployment in AWS EC2 cloud.",
+          "Implemented API to call the cookie drop reducing deployment time by 40%.",
+          "Mentored an Intern for implementation of Modern Cryptography SHA,SSL, TLS."
+         
         ],
         "link": ""
       }
