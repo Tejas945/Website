@@ -84,7 +84,7 @@
     "FEB 2018": [
       {
         "type": "Project",
-        "title": "5BARz Cloud",
+        "title": "5BARz RMS",
         "desc": [
           "Development of Remote Management System and Deployment in AWS EC2 cloud.",
           "Implemented API to call the cookie drop reducing deployment time by 40%.",
