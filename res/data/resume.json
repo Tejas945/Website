@@ -81,10 +81,10 @@
         "link": ""
       }
     ], 
-    "FEB 2016": [
+    "FEB 2018": [
       {
         "type": "Project",
-        "title": "5BARz Blockchain",
+        "title": "5BARz Cloud",
         "desc": [
           "Development of Remote Management System and Deployment in AWS EC2 cloud.",
           "Implemented API to call the cookie drop reducing deployment time by 40%.",
@@ -95,7 +95,7 @@
       }
     ],
     
-    "FEB 2017": [
+    "FEB 2018": [
       {
         "type": "Project",
         "title": "Universal Cookie and Browser Extension",
